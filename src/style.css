@@ -378,7 +378,7 @@ footer .copyright-text {
     }
     .today-result .box {
         /* width: calc(20% - 1px); */
-        width: calc(18% - 17px);
+        width: calc(20%);
         padding: 10px 0;
         height: auto;
     }
@@ -393,7 +393,7 @@ footer .copyright-text {
 }
 @media (max-width: 675px) {
     .today-result .box {
-        width: calc(14% - 0px);
+        width: calc(27%);
         padding: 10px 0;
         height: auto;
     }
@@ -433,7 +433,7 @@ footer .copyright-text {
 }
 @media (max-width: 565px) {
     .today-result .box {
-        width: calc(25% - 0px);
+        width: calc(40%);
         padding: 10px 0;
         height: auto;
     }
@@ -472,7 +472,7 @@ footer .copyright-text {
         padding: 0 5px;
     }
     .today-result .box {
-        width: calc(39%);
+        width: calc(38%);
         padding: 10px 0;
         height: auto;
     }
@@ -504,7 +504,7 @@ footer .copyright-text {
         height: auto;
     }
     .today-result .box {
-        width: calc(40%);
+        width: calc(38%);
         padding: 10px 0;
         height: auto;
     }
