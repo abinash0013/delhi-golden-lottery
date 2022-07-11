@@ -362,7 +362,7 @@ footer .copyright-text {
 }
 @media (max-width: 835px) {
     .banner {
-        min-height: 190vh;
+        min-height: 140vh;
     }
     .banner-content {
         flex-direction: column;
@@ -377,6 +377,9 @@ footer .copyright-text {
     }
 }
 @media (max-width: 765px) {
+    .banner {
+        min-height: 160vh;
+    }
     .banner-content .left img {
         height: 350px;
     }
@@ -401,13 +404,26 @@ footer .copyright-text {
         padding: 10px 0;
         height: auto;
     }
+    .banner {
+        min-height: 160vh;
+    }
+}
+@media (max-width: 565px) {
+    .today-result .box {
+        width: calc(40%);
+        padding: 10px 0;
+        height: auto;
+    }
+    .banner {
+        min-height: 160vh;
+    }
 }
 @media (max-width: 425px) {
     .navbar {
         padding: 15px 0;
     }
     .banner {
-        min-height: 160vh;
+        min-height: 140vh;
     }
     .banner-content .column {
         margin: 50px 20px;
@@ -433,13 +449,6 @@ footer .copyright-text {
     }
     .previous-result .years-text p {
         padding: 0 5px;
-    }
-}
-@media (max-width: 565px) {
-    .today-result .box {
-        width: calc(40%);
-        padding: 10px 0;
-        height: auto;
     }
 }
 @media (max-width: 375px) {
