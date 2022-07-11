@@ -332,6 +332,10 @@ footer .copyright-text {
     .banner-content {
         width: 950px;
     }
+    .center-fig span {
+        height: 200px;
+        width: 200px;
+    }
 }
 @media (max-width: 975px) {
     .max-width {
@@ -344,8 +348,8 @@ footer .copyright-text {
         margin: 100px 50px;
     }
     .center-fig span {
-        height: 200px;
-        width: 200px;
+        height: 170px;
+        width: 170px;
     }
     .previous-result .year-box {
         width: calc(20% - 20px);
