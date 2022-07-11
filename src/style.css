@@ -460,7 +460,7 @@ footer .copyright-text {
     }
     .banner {
 /*         min-height: 155vh; */
-        min-height: 120vh;
+        min-height: 107vh;
     }
     .banner-content {        
         top: 35vh;
@@ -471,6 +471,10 @@ footer .copyright-text {
     }
     .banner-content .left img {
         height: 250px;
+    }
+    .banner-content .right .search-form {
+        width: 257px;
+        padding: 10px 30px;
     }
     .center-fig span {
         height: 148px;
