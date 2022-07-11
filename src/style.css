@@ -446,9 +446,11 @@ footer .copyright-text {
         width: 180px;
     }
     .banner {
-        min-height: 155vh;
+/*         min-height: 155vh; */
+        min-height: 120vh;
     }
-    .banner-content {
+    .banner-content {        
+        top: 35vh;
         width: 350px;
     }
     .banner-content .column {
