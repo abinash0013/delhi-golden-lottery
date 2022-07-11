@@ -1,4 +1,5 @@
 import { Refresh } from "@material-ui/icons";
+import Sitelogo from "./../../../Images/siteLogo1.png";
 // import { Link } from "react-router-dom";
 
 function Navbar() {
@@ -8,7 +9,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="max-width">
                     <div className="logo">
-                        Lottery
+                        <img src={Sitelogo} alt="sitelogo" />
                         {/* <Link to="/">LOTTERY</Link> */}
                         {/* <a href="index.html">Lottery</span></a> */}
                     </div>
