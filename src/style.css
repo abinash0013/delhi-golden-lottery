@@ -332,10 +332,10 @@ footer .copyright-text {
     .banner-content {
         width: 950px;
     }
-    .center-fig span {
+    /*.center-fig span {
         height: 200px;
         width: 200px;
-    }
+    }*/
 }
 @media (max-width: 975px) {
     .max-width {
