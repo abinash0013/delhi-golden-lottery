@@ -42,7 +42,7 @@ function Banner() {
                                         type="submit"
                                         className="search-form-btn"
                                     >
-                                        Searchs
+                                        Search
                                     </button>
                                 </form>
                             </div>
